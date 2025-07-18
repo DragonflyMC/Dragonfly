@@ -1,0 +1,13 @@
+name = "Dragonfly"
+author = "Sophia Bitterstar"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "95e34a23a68353a6f2ffa0ef8393f493f7bf2689c62d0cd755057e84c95616e9"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.193"
