@@ -1,0 +1,9 @@
+resourcepacks
+shaderpacks
+
+config/**/*-client.toml
+
+kubejs/assets/**/textures
+kubejs/client_scripts
+
+packwiz-installer.jar

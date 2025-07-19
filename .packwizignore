@@ -1,3 +1,14 @@
+.vscode
+.github
+.idea
+
 .envrc
 .gitattributes
-README.md
+.gitignore
+
+.packwizignore-server
+
+kubejs/probe
+kubejs/jsconfig.json
+
+/README.md
