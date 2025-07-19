@@ -1,12 +1,110 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/balm-client.toml"
+hash = "655ec36b43d86c6f7d455cc6adab788c4161f543c832d275bafe23f85b8fe71c"
+
+[[files]]
+file = "config/balm-common.toml"
+hash = "655ec36b43d86c6f7d455cc6adab788c4161f543c832d275bafe23f85b8fe71c"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "da7f746b8a21a40618a7d4bfd0f3364b3cf1f46fc16cf9109fbbc8e54f93cf43"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "0c61852f7dedc61c4b67136cddf4a1cde57c029bbb5cb7cf0a8bd8fb86869070"
+
+[[files]]
+file = "config/defaultoptions-common.toml"
+hash = "98d7ecdde12c615a7ef6183004a3ac81cad35226789fa2a99f2e268899ecbfb2"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "6ecf595353f82a83be4f44e26a33bb2aa5e5bcbd419d562bc867086f07eeb100"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "48729beb313c10a7e620cdac7814c9ab05ce468eb411a0d0e8e30395a5a43bc5"
+
+[[files]]
+file = "config/emi.css"
+hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "31e423d81078b77d8d4613242174e3acd53fd0cc51ddf24dac54122771eba3c9"
+
+[[files]]
+file = "config/fml.toml"
+hash = "cc127c6067eb9e23289edc1c774afd71456456eef06c688af6731a72d3bba5e5"
+
+[[files]]
+file = "config/jei-server.toml"
+hash = "57d741871716e29b3a318b625e740d590598f001c362b6a4a95e3ee628c5cbc3"
+
+[[files]]
+file = "config/jei/blacklist.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "37cf1f682d623a42e9d56b9348a94b12811ffdb18fe6de17d2253b80855ab278"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "e4bc0c5fce5a7536bce14c94b30e30482e65d63792b29db0ad59d4fa9eb4d1a5"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "16bada81bf6ab44c1aa2b60e995833d4c3d6044faf1da7d56fee3c866d0f41ca"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "1c6bd34b80c0fee0858d70e425983c913773c8fdabbf8603f518ec9b1639058f"
+
+[[files]]
+file = "config/neoforge-client.toml"
+hash = "a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d"
+
+[[files]]
+file = "config/neoforge-common.toml"
+hash = "e6f7578cf8c11ade0a47e36bf3863fc96f84cdf4bb679c0fceabb1e8a2f42399"
+
+[[files]]
+file = "config/neoforge-server.toml"
+hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
+
+[[files]]
+file = "config/ponder-client.toml"
+hash = "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb"
+
+[[files]]
 file = "kubejs/server_scripts/create/mechanical_crafting.js"
 hash = "f65163bed4e8584772a93deb83f04a02cf49887dc94d32fb7e2acad49be3c973"
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "dbd47ac0167678d4487e3e284967055ca4af9db5f8bdb212d14d22868d3d6dca"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "1070f0faa541f5be34e84140f981d12e08d6d4ee753a7b0b0938c3b8760b2bd2"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "470b0d6784bece922b1664b34eb022cdcfdffb6c36247389eb32a8154d20057f"
 metafile = true
 
 [[files]]
